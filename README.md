@@ -9,3 +9,5 @@
 
 #### Books/Courses
 * Postgres Locks and Query: https://pglocks.org/
+* Write Behind Logging: https://paulcavallaro.com/blog/write-behind-logging/
+* Write Ahead Logging: 
